@@ -8,7 +8,7 @@ Template to start an app using [Yew Styles framework](https://yewstyles.spielrs.
 2. Clone this template
 3. Execute inside of the template: `trunk serve`
 
-# Directoies and files
+# Directories and files
 
 * `src/assets` : images, icons and other assets are here
 * `src/styles` : here are the `Yew Styles` css files and `main.sass`. **Note**: Only use `main.sass` or create new one in order to write your own styles
